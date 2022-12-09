@@ -335,7 +335,7 @@ Pessoa Jurídica:
 <h2>4º-Modifique a o projeto banco (abordado em sala de aula) para que o cliente usado seja um tipo PessoaFisica ou PessoaJuridica.</h2>
 </br>
 
-[Link para 4º questão](https://github.com/TioSteiNSCR/Trabalho-OOP/tree/main/quest%C3%A3o%204/banco/src/banco)
+[Link para 4º questão](https://github.com/TioSteiNSCR/Trabalho-OOP/tree/main/R-quest%C3%A3o%204/banco)
 
 </br>
 <h1 align="center">〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️</h1>
